@@ -1,2 +1,2 @@
 # ESP32-Classic-BT-Datalogger-UART
-ESP32 Classic BT Datalogger UART
+This project creates an SPP acceptor that acts as a server and an SPP initiator that acts as a client using the Serial Port Protocol (SPP) APIs. SSP protocols (Secure Simple Pair) are also covered. As a result, I've built SPP receivers and initiators on a single device at a time. In this approach, it is possible to easily transfer the log data to the desired device by receiving it via UART.
